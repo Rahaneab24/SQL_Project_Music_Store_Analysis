@@ -7,6 +7,9 @@ In this project we can examine the dataset with SQL and help the store understan
 ## Database and Tools
 MySQL
 
+
 Schema- Music Store Database
+
+
 <img width="594" height="598" alt="schema_diagram" src="https://github.com/user-attachments/assets/aa42297d-2e6f-4cf9-8a73-1ade3f5a519f" />
 
